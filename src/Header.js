@@ -1,6 +1,6 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.css';
-import '@fortawesome/fontawesome-free/js/all.js';
+//import '@fortawesome/fontawesome-free/js/all.js';
 import {
     Link
 } from "react-router-dom";
